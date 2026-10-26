@@ -74,9 +74,15 @@ Before running the project, install:
 
 ## 🖼️ Screenshots
 
-Screenshots of the running application can be added here as the project develops.
+### Home Page
+![Climate Guard Home Page](screenshots/home.jpg)
 
-For example, save screenshots in a `screenshots/` folder and embed them using Markdown:
+### Login Page
+![Climate Guard Login Page](screenshots/login.jpg)
+
+### Registration Page
+![Climate Guard Registration Page](screenshots/register.jpg)
+
 
 ```markdown
 ![Climate Guard dashboard](screenshots/dashboard.png)
