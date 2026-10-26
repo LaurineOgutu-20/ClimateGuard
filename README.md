@@ -84,10 +84,6 @@ Before running the project, install:
 ![Climate Guard Registration Page](screenshots/register.jpg)
 
 
-```markdown
-![Climate Guard dashboard](screenshots/dashboard.png)
-```
-
 ## 🌐 Project Repository
 
 [View Climate Guard on GitHub](https://github.com/LaurineOgutu-20/ClimateGuard)
